@@ -11,6 +11,11 @@ a {
     text-decoration: none;
 }
 
+.w {
+    width: 1390px;
+    margin: 0 auto;
+}
+
 .fl {
     float: left;
 }
@@ -20,7 +25,7 @@ a {
 }
 
 .clearfix:before,
-.clearfix:after {
+.clearfix::after {
     content: "";
     display: table;
 }
