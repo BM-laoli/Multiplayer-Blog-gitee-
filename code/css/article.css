@@ -1,0 +1,284 @@
+        /* hader start */
+        
+        .hader {
+            /* height: 514px; */
+            background: #ffffff;
+        }
+        
+        .hader-hd {
+            height: 137px;
+            background-color: #ffffff;
+            line-height: 137px;
+        }
+        
+        .hader-hd img {
+            float: left;
+            margin-top: 50px;
+        }
+        
+        .hader-hd ul {
+            float: left;
+            margin-left: 85px;
+        }
+        
+        .hader-hd li {
+            float: left;
+            padding-right: 20px;
+            text-align: center;
+            font-size: 17px;
+        }
+        
+        .hader-hd li a {
+            display: block;
+            color: #000000;
+        }
+        
+        .hader-hd img:last-child {
+            float: right;
+            margin-top: 60px;
+            margin-right: 20px;
+        }
+        /* hader end */
+        /* article start */
+        
+        .w {
+            padding-top: 35px;
+        }
+        
+        .cneter {
+            position: relative;
+        }
+        
+        .article {
+            float: left;
+            width: 900px;
+            /* height: 860px; */
+            background-color: #ffffff;
+        }
+        
+        .article h3 {
+            margin-bottom: 27px;
+            font-size: 22px;
+            color: #383443;
+            font-weight: 400;
+        }
+        
+        .article .users img {
+            float: left;
+        }
+        
+        .users .user {
+            width: 105px;
+            height: 30px;
+            font-size: 10px;
+            margin-left: 5px;
+            /* line-height: 30px; */
+        }
+        
+        .conter {
+            margin-top: 15px;
+            padding-top: 30px;
+            font-size: 12px;
+            color: #062743;
+            border-top: 1px solid #062743
+        }
+        
+        .user p {
+            color: #062743;
+        }
+        
+        .user span {
+            color: #8a92a9;
+        }
+        
+        .article ul {
+            margin: 25px 0;
+        }
+        
+        .article ul li {
+            float: left;
+            /* width: 47px; */
+            height: 17px;
+            padding: 0 4px;
+            margin-left: 4px;
+            font-size: 10px;
+            text-align: center;
+            line-height: 17px;
+            background-color: #cccc;
+        }
+        
+        .copyright {
+            width: 901px;
+            font-size: 12px;
+            color: #010a13;
+        }
+        
+        .fen {
+            height: 5px;
+            margin-top: 450px;
+            margin-left: 45%;
+            margin-bottom: 50px;
+        }
+        
+        .fen ul li {
+            background-color: #fff;
+        }
+        
+        .back-a img {
+            width: 900px;
+            height: 400px;
+        }
+        
+        .back-a {
+            position: relative;
+            margin-bottom: 100px;
+        }
+        
+        .back-a p {
+            position: absolute;
+            left: 20px;
+            top: 573px;
+            font-size: 14px;
+            color: #ffff;
+        }
+        
+        .back-a a {
+            position: absolute;
+            left: 20px;
+            top: 873px;
+            font-size: 14px;
+            color: #ffff;
+        }
+        
+        .tab {
+            /* position: fixed; */
+            float: right;
+            width: 300px;
+            /* height: 404px; */
+            background-color: #fff;
+        }
+        
+        .tab-hd input {
+            width: 280px;
+            height: 25px;
+            background-color: #f4f6f9;
+            color: #8a92a9;
+            padding-left: 5px;
+            border: none;
+        }
+        
+        .tab-hd img {
+            float: right;
+            margin-top: 5px;
+            margin-right: 1px;
+        }
+        
+        .tab-bd dt {
+            margin-top: 30px;
+            margin-bottom: 5px;
+            font-size: 20px;
+            color: #062743;
+        }
+        
+        .tab-bd dl div {
+            width: 40px;
+            height: 4px;
+            background-color: #ff5d4a;
+            margin-bottom: 5px;
+        }
+        
+        .tab-bd dd {
+            margin-bottom: 25px;
+            font-size: 18px;
+            color: #000000;
+        }
+        /* article end */
+        /* links start */
+        
+        .links {
+            height: 310px;
+            background-color: #f4f6f9;
+        }
+        
+        .links img {
+            padding-right: 5px;
+            margin-bottom: -3px;
+        }
+        
+        .links a:first-child {
+            color: #ff5d4a;
+        }
+        
+        .links ul {
+            float: left;
+            height: 184px;
+            margin-top: 55px;
+            margin-left: -28px;
+        }
+        
+        .links li {
+            position: relative;
+            float: left;
+            width: 318px;
+            height: 184px;
+            margin-left: 22px;
+            margin-bottom: 22px;
+        }
+        
+        .links li img {
+            width: 331px;
+            height: 184px;
+        }
+        
+        .links h3 {
+            float: left;
+            position: absolute;
+            top: 110px;
+            left: 25px;
+            font-size: 18px;
+            font-weight: 400;
+            color: #ffffff;
+        }
+        /* links end */
+        /* footer statr */
+        
+        .footer {
+            height: 345px;
+            background-color: #010a13;
+        }
+        
+        .footer dl dt {
+            font-size: 20px;
+            width: 90px;
+            color: #ffffff;
+            padding-bottom: 20px;
+        }
+        
+        .footer dl {
+            height: 153px;
+            margin-top: 64px;
+        }
+        
+        .footer dl div {
+            width: 40px;
+            height: 4px;
+            margin-bottom: 20px;
+            background-color: #ff5d4a;
+        }
+        
+        .footer dl:first-child {
+            width: 713px;
+        }
+        
+        .footer dl {
+            margin-right: 28px;
+        }
+        
+        .footer dl:first-child {
+            margin-right: 0;
+        }
+        
+        .footer dd {
+            color: #ffffff;
+        }
+        /* footer end */
